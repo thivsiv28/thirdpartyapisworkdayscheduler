@@ -29,6 +29,7 @@ The following animation demonstrates the application functionality:
 ![work day scheduler screenshot](./assets/images/_Users_vakesensivasthamparam_Desktop_thirdpartyapisworkdayscheduler_index.html.png)
 
 #### Application deployed live URL:
+https://thivsiv28.github.io/thirdpartyapisworkdayscheduler/
 
 #### Application GitHub Repository URL:
 https://github.com/thivsiv28/thirdpartyapisworkdayscheduler
